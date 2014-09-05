@@ -40,3 +40,7 @@ psutil实现了很多功能，包括了如下工具所具有的：
 下载的地方：
 http://code.google.com/p/psutil/downloads/list
 
+
+刚才无意中看到的一个爬虫帖子.感觉非常不错.推荐之
+[爬虫文档](http://blog.csdn.net/zhonghuan1992/article/details/39051025)<hr>
+
